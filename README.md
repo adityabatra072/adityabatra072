@@ -18,6 +18,8 @@
 ## 📫 How to Reach Me
 - **Email**: [adityabatra072@gmail.com](mailto:adityabatra@gmail.com)
 - **LinkedIn**: [Aditya Batra](https://linkedin.com/in/your-profile)
+
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 <!---
 adityabatra072/adityabatra072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
