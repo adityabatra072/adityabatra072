@@ -17,7 +17,7 @@
 
 ## 📫 How to Reach Me
 - **Email**: [adityabatra072@gmail.com](mailto:adityabatra@gmail.com)
-**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/adityabatra072/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/adityabatra072/)
 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
