@@ -1,27 +1,21 @@
-# 👋 Hi, I'm Aditya Batra
+# Hi, I'm Aditya 👋  
 
-## 🚀 About Me
-- 🎓 Currently pursuing a BTech and have just completed my second year.
-- 🛠️ Love creating Python automation scripts and developing web applications in my free time.
-- 🤖 Keen interest in machine learning and blockchain technologies.
+🎓 B.Tech IT student (2026) | 📍 Delhi, India  
+💡 Interested in **Machine Learning, Web Development, and Cybersecurity**  
+🚀 Building projects that bridge AI, finance, and productivity tools  
 
-## 🛠 Skills
-- **Languages**: Python, C++, JavaScript
-- **Web Development**: HTML, CSS, React, Node.js
-- **Tools**: Git, Docker, Jenkins
-- **Interests**: Machine Learning, Blockchain
+---
 
-## 🌱 Currently Learning
-- Web development using the MERN stack (MongoDB, Express.js, React, Node.js).
-- Deepening knowledge in machine learning and blockchain.
+### 🔧 Tech Stack
+- **Languages:** Python, C++, SQL, JavaScript, HTML/CSS  
+- **Libraries & Frameworks:** TensorFlow, Pandas, NumPy, Scikit-learn, React, Next.js, Flask, FastAPI  
+- **Core CS:** DSA, OOP, DBMS, OS, CN  
 
-## 📫 How to Reach Me
-- **Email**: [adityabatra072@gmail.com](mailto:adityabatra@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/adityabatra072/)
+---
 
+### What I'm working on:
+- 🤖 Deep learning projects (vision & NLP)  
+- 🌐 Scalable web apps with **Next.js + FastAPI**  
+- 📈 Smart automation tools for real-world use cases
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-<!---
-adityabatra072/adityabatra072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/adityabatra072)**
