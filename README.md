@@ -1,21 +1,39 @@
-# Hi, I'm Aditya 👋  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Aditya%20Batra&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Builder%20//%20Operator%20//%20Evangelist&descAlignY=51&descAlign=62" />
+</div>
 
-🎓 B.Tech IT student (2026) | 📍 Delhi, India  
-💡 Interested in **Machine Learning, Web Development, and Cybersecurity**  
-🚀 Building projects that bridge AI, finance, and productivity tools  
+<div align="center">
+  
+  ### ⚡ "I build at the speed of thought."
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
----
+<br />
 
-### 🔧 Tech Stack
-- **Languages:** Python, C++, SQL, JavaScript, HTML/CSS  
-- **Libraries & Frameworks:** TensorFlow, Pandas, NumPy, Scikit-learn, React, Next.js, Flask, FastAPI  
-- **Core CS:** DSA, OOP, DBMS, OS, CN  
+### 👨‍💻 // The System Kernel
 
----
+```python
+class AdityaBatra:
+    def __init__(self):
+        self.role = "Co-Founder @ Singularity"
+        self.obsession = ["AI Agents", "GTM Engines", "Community Systems"]
+        self.philosophy = "Arbitrage between Tech & Market Needs"
 
-### What I'm working on:
-- 🤖 Deep learning projects (vision & NLP)  
-- 🌐 Scalable web apps with **Next.js + FastAPI**  
-- 📈 Smart automation tools for real-world use cases
+    def current_focus(self):
+        return {
+            "Building": "The Culture Layer for Tech",
+            "Scaling": "Zero-CAC Growth Engines",
+            "Mission": "AI For All (Universal Adaptation)"
+        }
 
-📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/adityabatra072)**
+    def code(self):
+        while True:
+            ship_fast()
+            break_things()
+            iterate()
